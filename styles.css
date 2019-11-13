@@ -9,5 +9,20 @@ body {
     font-family: Georgia, Times, serif;
     color: #fff;
     text-align: center;
-    font-size: 50px;    
+    font-size: 25px;    
+}
+
+.box {
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.primary-box {
+    background-color: #212121;
+}
+
+.secondary-box {
+    background-color: #fff;
+    color: #212121
 }
